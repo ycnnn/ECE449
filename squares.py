@@ -1,6 +1,6 @@
 import numpy 
 import torch
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 ## You only need to complete the two functions.
 def numpy_squares(k):
